@@ -1,0 +1,8 @@
+COMPTE RENDU DATA CLEANING QUALITE D'AIR
+
+j'ai drop des values NaN
+j'ai drop des unités de mesure et pris les plus frequentes 
+les unités locations sont différentes
+j'ai amélioré la lisbilité du dataset et je me suis debarassé des aberrations 
+
+cepdendant malgré ca je pense que j'ai du enlever beaucoup de valeurs . est ce que l'etude sera pertienente ? j'ai meme du remplacer des valeurs manquantes par la moyenne cela peut peut-etre fausser l'ecart type ou la variation . l'essentiel est toujours mais il se peut qu'on passe a coté de valeures importantes 
